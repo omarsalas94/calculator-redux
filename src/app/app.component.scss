@@ -1,0 +1,16 @@
+.container {
+  width: 160px;
+  margin: 0px auto;
+
+  .content {
+    textarea {
+      width: 145px;
+      margin: 0px 5px;
+      text-align: right;
+    }
+    .buttons {
+      display: flex;
+      flex-wrap: wrap;
+    }
+  }
+}

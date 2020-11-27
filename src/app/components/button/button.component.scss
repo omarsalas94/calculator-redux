@@ -1,0 +1,15 @@
+.button {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  margin: 5px;
+  color: white;
+  cursor: pointer;
+
+  &:hover {
+    background-color: blue;
+  }
+}
